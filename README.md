@@ -25,5 +25,7 @@ Build your form with validation and error messages. Ensure the form is responsiv
 Email registration -> required valid email
 Password registration -> required with a max of 12 characters
 
+NOTE: Please use atomic commits
+
 4- Create a Pull Request
 Once finished, add/commit your work and push your branch to Github, create a Pull Request and assign me [ronsandova][https://github.com/ronsandova) as the Reviewer.
