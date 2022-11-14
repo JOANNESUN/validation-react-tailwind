@@ -21,9 +21,9 @@ Use Bootstcrap or Tailwind, Cypress CI for end-to-end testing and a JavaScrip fr
 React -> Must use React Hooks Components
 Install and set up Cypress CI
 
-Build your form with validation and error messages. Ensure the form is responsive, mobile first approach. (If time let you)
-Email registration -> required valid email
-Password registration -> required with a max of 12 characters
+* Build your form with validation and error messages. Ensure the form is responsive, mobile first approach. (If time let you)
+* Old password -> required
+* New password -> required, min of 8 characters and a mixture of numbers and letters
 
 NOTE: Please use atomic commits
 
