@@ -1,0 +1,17 @@
+.footer{
+    background-color:#ffffff;
+    color: aliceblue !important;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    font-weight: 500;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+  }
+
+  h5{
+    color: rgb(53, 53, 54) !important;
+  }
