@@ -1,4 +1,4 @@
-body {
+/* body {
   background: #c2c2fc;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
@@ -121,7 +121,7 @@ input[type="submit"] {
   margin: 0 auto;
 }
 
-button[type="button"]{
+button[type="button"] {
   display: block;
   appearance: none;
   background: rgb(245, 240, 240);
@@ -153,4 +153,4 @@ button {
   display: flex;
   justify-content: left;
   gap: 3px;
-}
+} */
